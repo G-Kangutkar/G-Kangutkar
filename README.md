@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋;I%27m+Gauri+Kangutkar;Full+Stack+Developer;Passionate+about+creating+responsive+applications"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋I%27m+Gauri+Kangutkar;Full+Stack+Developer;Passionate+about+creating+responsive+applications"
     alt="Typing SVG"
   />
 </p>

@@ -107,7 +107,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <em>“First, solve the problem. Then, write the code.”</em> 💡
+  <em>“As you start to walk on the way, the way appears.
+Clarity doesn’t come before action; it comes after action.” -Unknown </em> 💡
 </p>
 
 <p align="center">────────── ✦ ──────────</p>

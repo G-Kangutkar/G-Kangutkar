@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋I%27m+Gauri+Kangutkar;Full+Stack+Developer;Passionate+about+creating+responsive+applications"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋 I%27m+Gauri+Kangutkar;Full+Stack+Developer;Passionate+about+creating+responsive+applications"
     alt="Typing SVG"
   />
 </p>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🎯 I’m currently working on building clean, scalable, and user-friendly web applications.  
 - 🌱 I’m currently learning Advanced React patterns, backend integrations, and modern UI systems.  
 - 📫 How to reach me: [kangutkargauri9205@gmail.com](mailto:kangutkargauri9205@gmail.com)  
-- 🌐 **Portfolio:** [Visit my portfolio](https://your-portfolio-link.com)
+<!--- 🌐 **Portfolio:** [Visit my portfolio](https://your-portfolio-link.com)-->
 
 
 
@@ -107,8 +107,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <em>“As you start to walk on the way, the way appears.
-Clarity doesn’t come before action; it comes after action.” -Unknown </em> 💡
+  <em>“As you start to walk on the way, the way appears. <br/>
+Clarity doesn’t come before action; it comes after action.”<br/> -Unknown  </em> 💡
 </p>
 
 <p align="center">────────── ✦ ──────────</p>

@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
 </p>
 <h3 align="center">🧰 Tools</h3>
  

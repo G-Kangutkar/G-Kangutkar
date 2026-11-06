@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋I%27m+Gauri+Kangutkar;Full+Stack+Developer;Passionate+about+creating+responsive+applications"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋I%27m+Gauri+Kangutkar;MERN+Stack+Developer;Passionate+about+creating+responsive+applications"
     alt="Typing SVG"
   />
 </p>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,nextjs" />
   <br/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="48" alt="shadcn/ui" />
 </p>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,lambda" />
 </p>
 
 
@@ -76,6 +76,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
+</p>
+<h3 align="center">⚡ Deployment</h3>
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=awslambda,awsamplify,awsgateway,awsec2" />
 </p>
 <h3 align="center">🧰 Tools</h3>
  

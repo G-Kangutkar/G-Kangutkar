@@ -80,10 +80,13 @@ Here are some ideas to get you started:
 <h3 align="center">⚡ Deployment</h3>
  
 <p align="center">
-  <img src="https://shields.io" alt="AWS Lambda" />
-<img src="https://shields.io" alt="AWS Amplify" />
-<img src="https://shields.io" alt="Amazon API Gateway" />
-<img src="https://shields.io" alt="Amazon EC2" />
+
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+</p>
+
+
 
 </p>
 <h3 align="center">🧰 Tools</h3>

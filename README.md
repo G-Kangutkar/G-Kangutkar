@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,lambda" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 
@@ -80,7 +80,11 @@ Here are some ideas to get you started:
 <h3 align="center">⚡ Deployment</h3>
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lambda,amplify,gateway,ec2" />
+  <img src="https://shields.io" alt="AWS Lambda" />
+<img src="https://shields.io" alt="AWS Amplify" />
+<img src="https://shields.io" alt="Amazon API Gateway" />
+<img src="https://shields.io" alt="Amazon EC2" />
+
 </p>
 <h3 align="center">🧰 Tools</h3>
  

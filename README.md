@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <h3 align="center">⚡ Deployment</h3>
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=awslambda,awsamplify,awsgateway,awsec2" />
+  <img src="https://skillicons.dev/icons?i=lambda,amplify,gateway,ec2" />
 </p>
 <h3 align="center">🧰 Tools</h3>
  
